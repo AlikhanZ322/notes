@@ -1,7 +1,7 @@
 # Number row character
 - !
 - @
-- #
+- ##
 - $
 - %
 - ^
