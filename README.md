@@ -1,12 +1,16 @@
-# Number row character
-- !
-- @
-- \#
-- $
-- %
+# Number row characters
+
+- ! 
+- @  
+- $ 
+- % 
 - ^
-- &
-- (
-- )
-- _
-- +
+- &  
+- ( 
+- ) 
+- _ 
+
+# Links
+
+- [GitHub Pages](https://pages.github.com/)
+- [Stack Overflow](https://stackoverflow.com/)
