@@ -1,15 +1,15 @@
 # Number row characters
 
-- ! 
-- @
-- \#
-- $ 
-- % 
-- ^
-- &  
-- ( 
-- ) 
-- _ 
+- ! Alikhan
+- @ Rasul
+- \# Eric
+- $ Tigran
+- % Karim 
+- ^ Emily
+- &  Tanya
+- ( Olga
+- ) Alex
+- _  Tim
 
 # Links
 
