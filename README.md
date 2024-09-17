@@ -1,5 +1,8 @@
-# Number row characters
--!
--"
--№
--;
+# Number row character
+- !
+- "
+- №
+- ;
+- %
+- :
+- ?
