@@ -1,3 +1,5 @@
+# CLI Commands
+
 ## ls
 The `ls` command is used to list files and directories in the current directory.
 
