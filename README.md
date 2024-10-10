@@ -20,3 +20,4 @@
 :smiley:
 :alien:
 :v:
+[CLI commands](docs/cli.md)
